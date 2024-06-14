@@ -4,10 +4,10 @@ This was the first task we undertook. For this task we had to complete tasks suc
 
 ## Links to other Portfolios
 ### Portfolio 2
-https://github.com/MQ-COMP2200-COMP6200/portfolio-part-2-Nathaniel-Roberts/tree/main
+https://github.com/Nathaniel-Roberts/Data-Science-Portfolio-2
 
 ### Portfolio 3
-https://github.com/MQ-COMP2200-COMP6200/portfolio-part-3-Nathaniel-Roberts
+https://github.com/Nathaniel-Roberts/Data-Science-Portfolio-3
 
 ### Portfolio 4
-https://github.com/MQ-COMP2200-COMP6200/portfolio-part-4-Nathaniel-Roberts
+https://github.com/Nathaniel-Roberts/Data-Science-Portfolio-4
